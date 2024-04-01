@@ -321,7 +321,7 @@ if has('nvim')
     hi! link  @lsp.type.variable DraculaFg
   endif
 else
-  hi! link SpecialKey DraculaPink
+  hi! link SpecialKey DraculaSubtle
 endif
 
 hi! link Comment DraculaComment
